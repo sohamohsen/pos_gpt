@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class CashierStatus {
+public enum CashierStatus {
+    ACTIVE, INACTIVE
 }

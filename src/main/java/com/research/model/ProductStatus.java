@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class ProductStatus {
+public enum ProductStatus {
+    AVAILABLE, OUT_OF_STOCK
 }

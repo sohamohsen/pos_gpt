@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class PaymentStatus {
+public enum PaymentStatus {
+    SUCCESS, FAILED
 }

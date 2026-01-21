@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class PaymentMethod {
+public enum PaymentMethod {
+    CASH, CARD
 }

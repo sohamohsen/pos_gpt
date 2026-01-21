@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class CategoryStatus {
+public enum CategoryStatus {
+    ACTIVE, INACTIVE
 }

@@ -1,4 +1,5 @@
 package com.research.model;
 
-public class SaleStatus {
+public enum SaleStatus {
+    OPEN, COMPLETED, CANCELED
 }
